@@ -101,7 +101,7 @@ export default function Footer() {
                         onMouseEnter={(e) => (e.currentTarget.style.color = "#e63c2f")}
                         onMouseLeave={(e) => (e.currentTarget.style.color = "#cccccc")}
                     >
-                        Creative Channel Media
+                        Master Frame Production
                     </Link>
                 </p>
 

@@ -10,8 +10,8 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Creative Channel Media",
-  description: "Creative Channel Media — A creative agency for ideas, design, and storytelling.",
+  title: "Master Frame Production",
+  description: "Master Frame Production — A creative agency for ideas, design, and storytelling.",
 };
 
 export default function RootLayout({

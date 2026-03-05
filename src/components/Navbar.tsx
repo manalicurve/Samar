@@ -96,7 +96,7 @@ export default function Navbar() {
             <Link href="https://www.creativechannel.in/" className="navbar-logo" target="_blank" rel="noopener noreferrer">
               <Image
                 src="https://www.creativechannel.in/wp-content/uploads/2023/01/new-logo-black-cc-e1713861287886.png"
-                alt="Creative Channel Media"
+                alt="Master Frame Production"
                 width={160}
                 height={40}
                 style={{ height: "36px", width: "auto" }}
